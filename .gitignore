@@ -12,7 +12,7 @@
 node_modules/
 .tmp/
 .idea/
-
+.vscode/
 
 # OS or Editor folders
 .DS_Store
@@ -30,3 +30,4 @@ nbproject
 _notes
 dwsync.xml
 package-lock.json
+
